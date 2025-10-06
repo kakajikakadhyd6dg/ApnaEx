@@ -22,7 +22,7 @@ CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003112993024"))
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ajmerasaini01:U1sGiZRI6Ha0xuCy@cluster0.tnok3d0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMI1002986077751UM_LOGS", "-1003112993024"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003112993024"))
 # -----------------------------------------------
 join = '<a href="https://t.me/RPSC_UPSC_CURRENT">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
