@@ -9,20 +9,20 @@ API_HASH = os.environ.get("API_HASH","c93589620441707c37c5683a02eea54e")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Extrarhruhrctbot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "Ystrudgibbot")
 BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "8413546109"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002986077751"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003112993024"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002986077751")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003112993024")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ajmerasaini01:U1sGiZRI6Ha0xuCy@cluster0.tnok3d0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002986129049"))
+PREMIUM_LOGS = int(os.environ.get("PREMI1002986077751UM_LOGS", "-1003112993024"))
 # -----------------------------------------------
 join = '<a href="https://t.me/RPSC_UPSC_CURRENT">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
